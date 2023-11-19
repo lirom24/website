@@ -1,0 +1,41 @@
+body{
+
+    background: url(https://i.pinimg.com/originals/8b/f8/1e/8bf81e294701f7e927f70613310fb758.jpg) no-repeat center top fixed;
+    color:mistyrose ;
+     background-size: cover;
+
+}
+h1 {
+    background-color: mistyrose;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: #98224f;
+    text-align: center;
+
+}
+p {
+    background-color:#98224f ;
+    font-family: 'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: mistyrose;
+    text-align: center;
+
+}
+li {
+    background-color:#98224f ;
+    font-family: 'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: mistyrose;
+}
+div {
+    background-color:#98224f ;
+    font-family: 'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: mistyrose;
+   
+}
+.ticket-title {
+    text-align: center;
+    background-color: mistyrose;
+    color: #98224f;
+}
